@@ -17,7 +17,7 @@ import sys
 import requests
 from bs4 import BeautifulSoup
 
-USERNAME = os.environ.get("GH_PROFILE_USER", "AVIVASHISHTA29")
+USERNAME = sys.argv[1] if len(sys.argv) > 1 else os.environ.get("GH_PROFILE_USER", "Dineshkumar2006471")
 URL = f"https://github.com/users/{USERNAME}/contributions"
 OUT_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "contributions.json")
 
