@@ -39,17 +39,18 @@ ACCENT = "#22d3ee"
 # ("gap",)                     -> vertical space
 ROWS = [
     ("host",),
-    ("kv", "Now", "Software Engineer"),
-    ("kv", "Prev", "Student"),
-    ("kv", "Edu", "Computer Science"),
+    ("kv", "Now", "CS AI/ML Student @ Sanskriti Univ"),
+    ("kv", "Prev", "SDE Intern @ Bluestock Fintech"),
+    ("kv", "Edu", "B.Tech CS & Eng (2024 - 2028)"),
     ("gap",),
     ("sec", "Stack"),
-    ("kv", "Frontend", "React, TypeScript, HTML/CSS"),
-    ("kv", "Backend", "Node.js, Python"),
-    ("kv", "Tools", "Git, Docker, GitHub Actions"),
+    ("kv", "Frontend", "React.js, Next.js, Tailwind CSS"),
+    ("kv", "Backend", "Node.js, FastAPI, Python, SQL"),
+    ("kv", "Cloud/AI", "Docker, GCP, Firebase, LangChain"),
     ("gap",),
     ("sec", "Highlights"),
-    ("bul", "Building awesome GitHub Profiles"),
+    ("bul", "Built IntelliPlant (RAG-Powered AI)"),
+    ("bul", "Google Cloud GenAI Academy Finalist"),
 ]
 
 
