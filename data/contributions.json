@@ -1,22 +1,22 @@
 {
   "username": "Dineshkumar2006471",
-  "generated_at": "2026-10-30T12:53:04Z",
+  "generated_at": "2026-10-31T12:25:50Z",
   "range": {
     "start": "2025-10-26",
+    "end": "2026-10-31"
+  },
+  "total_contributions": 812,
+  "active_days": 152,
+  "avg_per_active_day": 5.3,
+  "current_streak": {
+    "length": 108,
+    "start": "2026-07-15",
     "end": "2026-10-30"
   },
-  "total_contributions": 811,
-  "active_days": 151,
-  "avg_per_active_day": 5.4,
-  "current_streak": {
-    "length": 107,
-    "start": "2026-07-15",
-    "end": "2026-10-29"
-  },
   "longest_streak": {
-    "length": 107,
+    "length": 108,
     "start": "2026-07-15",
-    "end": "2026-10-29"
+    "end": "2026-10-30"
   },
   "best_day": {
     "date": "2025-11-30",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-10",
-      "total": 44
+      "total": 45
     }
   ],
   "days": [
@@ -1555,6 +1555,10 @@
     },
     {
       "date": "2026-10-30",
+      "count": 1
+    },
+    {
+      "date": "2026-10-31",
       "count": 0
     }
   ]
